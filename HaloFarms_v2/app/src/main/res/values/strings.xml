@@ -48,7 +48,6 @@
     <string name="analyzed_">Analyzed</string>
     <string name="to_be_analyzed_">To be analyzed</string>
     <string name="not_analyzed">Not analyzed</string>
-    <string name="maps_api_key">AIzaSyCHpTWIZBF87BIbSY4CZSCnmWJjnYAgktg</string>
     <string name="is_your_gps_on">Is your GPS on?</string>
     <string name="choose_your_timestamp">Choose your timestamp</string>
     <string name="choose_your_heatmap">Choose your heatmap</string>
