@@ -8,7 +8,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:831008907263:android:c54a289c4d7bea54e691ca",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "it.unipi.halofarms"
         }
@@ -19,11 +19,11 @@
           "client_type": 1,
           "android_info": {
             "package_name": "it.unipi.halofarms",
-            "certificate_hash": "55559d6fd86f73027cd84c315b5f9a21782b6e43"
+            "certificate_hash": ""
           }
         },
         {
-          "client_id": "831008907263-1p94qu3of51cbdfdgfg2ojkkhp0qsekq.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 3
         }
       ],
@@ -36,7 +36,7 @@
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "831008907263-1p94qu3of51cbdfdgfg2ojkkhp0qsekq.apps.googleusercontent.com",
+              "client_id": "",
               "client_type": 3
             }
           ]
